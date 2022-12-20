@@ -1,5 +1,6 @@
 # Understanding_CDN
-![image](https://user-images.githubusercontent.com/114154205/208679738-df6acf48-f0b3-48b9-8af4-4d826afb1c95.png)
+![image](https://user-images.githubusercontent.com/114154205/208682282-e939c6fb-03f4-4380-ad7d-4b04d79452ac.png)
+
 
 ## 1.There's some delay in this process(First time request or fresh request), but it does happen immediately(after first request).
  
