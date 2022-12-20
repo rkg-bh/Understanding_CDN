@@ -3,6 +3,6 @@
 
 ## 1.There's some delay in this process(First time request or fresh request), but it does happen immediately(after first request).
  
-## Then our user receives the file(first user). Since the file wasn't cashed, the initial request took longer, but she did cause the file to be cached by the CDN now for everyone else(after first user).
+## 2. Then our user receives the file(first user). Since the file wasn't cashed, the initial request took longer, but she did cause the file to be cached by the CDN now for everyone else(after first user).
 
-## That means that when more people request that same file from their closest CDN edge servers, the file is served immediately, saving you bandwidth costs and making them happier with a faster response
+## 3. That means that when more people request that same file from their closest CDN edge servers, the file is served immediately, saving you bandwidth costs and making them happier with a faster response
